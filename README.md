@@ -47,8 +47,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Built using Excel's advanced features and data analysis tools.
 - Inspired by best practices in dashboard design and data visualization. [Excel Dashboard Best Practices](https://www.excel-easy.com/data-analysis/dashboard.html)
 
-## Notes for You
-- Replace `path/to/construction_dashboard.png` and `path/to/sales_dashboard.png` with the actual file paths or URLs where you upload the images in your GitHub repository.
-- Since the second image (sales dashboard) wasn't provided, create a placeholder or upload a relevant sales-related screenshot.
-- Save the above content in a `README.md` file in your GitHub repository root directory.
-- The links provided are examples; update them with relevant resources as needed.
