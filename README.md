@@ -18,7 +18,7 @@ This repository contains a professionally designed Excel dashboard project that 
 - Includes interactive charts for account status, invoice sales, material purchases, and customer order/job profit trends.
 
 ### Sales Dashboard
-![Sales Dashboard](path/to/sales_dashboard.png)
+![Sales Dashboard](https://raw.githubusercontent.com/Awinmipalan/Excel-Dashboard/main/sales%20dash%20board.png)
 - (Note: Placeholder image; replace with actual sales dashboard screenshot.)
 - Features key sales metrics, toggleable order types (**INVO, PURC, WOR**), and trend analysis over time.
 
