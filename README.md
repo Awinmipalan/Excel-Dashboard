@@ -13,7 +13,7 @@ This repository contains a professionally designed Excel dashboard project that 
 
 ## Screenshots
 ### Construction Management Dashboard
-![Construction Dashboard](path/to/construction_dashboard.png)
+![Construction Dashboard](https://raw.githubusercontent.com/Awinmipalan/Excel-Dashboard/main/con%20dashboard.png)
 - Displays total job costs (**$15,937.56**), labor costs (**$906.25**), job profits (**$5,202.40**), and other financial metrics.
 - Includes interactive charts for account status, invoice sales, material purchases, and customer order/job profit trends.
 
